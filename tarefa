@@ -1,0 +1,7 @@
+Instructions
+Crie um repositório contendo seu portfólio digital no Git/GitHub.
+Dentro de uma pasta chamada src, crie um protótipo navegável em html e css com uma proposta de arquitetura de informação de acordo com os documentos de requisitos.  Não precisa conter os dados finais, mas deve conter aquilo que é esperado em termos de informação e a estrutura visual geral (sem cores definitivas, por exemplo).
+Dentro de uma pasta chamada mgt, crie um wireframe para a versão mobile de seu repositório. Com a arquitetura da informação compatível com o item 1 mas com layout próprio para mobile.
+No seu repositório, marque a versão estável com uma TAG até a data de entrega. Denomine a entrega como v.1.0
+
+Sua nota será baseada na entrega via repositório e também na sua apresentação para o professor (domínio das ferramentas e capacidade de alterar tanto o protótipo navegável como o wireframe)
